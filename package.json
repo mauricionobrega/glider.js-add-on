@@ -1,0 +1,14 @@
+{
+  "name": "glider.js-add-on",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node_modules/.bin/http-server"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.0"
+  },
+  "devDependencies": {
+    "glider-js": "^1.7.1"
+  }
+}

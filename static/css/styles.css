@@ -1,0 +1,33 @@
+html, body {
+  width: 100%;
+  max-width: 100%;
+}
+
+main {
+  padding: 2rem;
+}
+
+.carousel {
+  max-width: 100%;
+  background-color: grey;
+}
+
+.carousel div {
+  height: 350px;
+}
+
+.carousel .glider-slide {
+  padding: 2rem;
+}
+
+.carousel .item-00 { background-color: aquamarine; }
+.carousel .item-01 { background-color: blue; }
+.carousel .item-02 { background-color: violet; }
+.carousel .item-03 { background-color: brown; }
+.carousel .item-04 { background-color: royalblue; }
+.carousel .item-05 { background-color: indigo; }
+.carousel .item-06 { background-color: olive; }
+.carousel .item-07 { background-color: firebrick; }
+.carousel .item-09 { background-color: khaki; }
+.carousel .item-09 { background-color: purple; }
+.carousel .item-10 { background-color: peru; }
